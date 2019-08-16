@@ -8,5 +8,6 @@ def my_each(array)# put argument(s) here
     array
     end
   else 
+    break
   # code here
 end
